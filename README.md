@@ -27,5 +27,5 @@ Matplotlib
 Author
 Name: Baneen Nayab
 Email: baneenb680@gmail.com
-GitHub: Your GitHub Profile
+GitHub: https://github.com/baneennayab
 
